@@ -6,6 +6,12 @@
 
 ---
 
+## Demo
+
+https://github.com/arjunthilak05/iiim_hack/raw/main/demo.mov
+
+---
+
 ## Sample Output
 
 ![Sample Analysis Report](sample_output.png)
@@ -94,8 +100,6 @@ rapideye/
 ├── test_images/            # Sample images for testing
 │   ├── before_disaster.png
 │   └── after_disaster.png
-├── notebooks/
-│   └── rapideye_demo.ipynb # Demo notebook
 └── requirements.txt
 ```
 

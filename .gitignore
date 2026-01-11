@@ -60,6 +60,9 @@ logs/
 # Test outputs
 test_report.png
 
+# Notebooks
+notebooks/
+
 # Environment variables
 .env
 .env.local
