@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ### 2. Download Model Weights
 
-Download `best.pth` and place in `models/` folder.
+Download `best.pth` from [Google Drive](https://drive.google.com/file/d/1Mh-HSRcL9KiUj4Pbk-VGfStJzqYPKzEk/view?usp=sharing) and place in `models/` folder.
 
 Or train your own model (see Training section below).
 
