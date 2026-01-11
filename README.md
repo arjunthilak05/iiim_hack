@@ -8,7 +8,13 @@
 
 ## Demo
 
-https://github.com/arjunthilak05/iiim_hack/raw/main/demo.mov
+[![Watch Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1Mh-HSRcL9KiUj4Pbk-VGfStJzqYPKzEk/view?usp=sharing)
+
+<a href="https://drive.google.com/file/d/1Mh-HSRcL9KiUj4Pbk-VGfStJzqYPKzEk/view?usp=sharing">
+  <img src="sample_output.png" alt="Click to watch demo" width="800"/>
+</a>
+
+*Click the image above to watch the full demo video*
 
 ---
 
@@ -57,7 +63,7 @@ pip install -r requirements.txt
 
 ### 2. Download Model Weights
 
-Download `best.pth` from [Google Drive](https://drive.google.com/file/d/1Mh-HSRcL9KiUj4Pbk-VGfStJzqYPKzEk/view?usp=sharing) and place in `models/` folder.
+Download `best.pth` and place in `models/` folder. (Contact repo owner for model weights)
 
 Or train your own model (see Training section below).
 
