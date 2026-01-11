@@ -8,13 +8,20 @@
 
 ## Demo
 
-[![Watch Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1Mh-HSRcL9KiUj4Pbk-VGfStJzqYPKzEk/view?usp=sharing)
+[![Watch Demo Video](https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1d6YDPKsu7dFsTc5ixBS9HJxf2LYIM8HD/view?usp=sharing)
 
-<a href="https://drive.google.com/file/d/1Mh-HSRcL9KiUj4Pbk-VGfStJzqYPKzEk/view?usp=sharing">
-  <img src="sample_output.png" alt="Click to watch demo" width="800"/>
-</a>
+---
 
-*Click the image above to watch the full demo video*
+## Screenshots
+
+### Main Dashboard - Satellite Imagery & Priority Queue
+![Main Dashboard](screenshots/ui_main.png)
+
+### Damage Detection & Urgency Heatmap
+![Damage Detection](screenshots/ui_detection.png)
+
+### Key Metrics & Actions
+![Key Metrics](screenshots/ui_metrics.png)
 
 ---
 
